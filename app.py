@@ -490,8 +490,8 @@ section {{ padding:70px 18px; max-width:1050px; margin:0 auto; }}
 <div id="main">
 
   <div class="hero">
-    <div class="pre" data-speed="0.04">✦ 25 · 07 · 2026 — a day just for you ✦</div>
-    <h1 data-speed="0.08">Happy Girlfriend Day</h1>
+    <div class="pre" data-speed="0.04">✦ 27 · 07 · 2026 — a day just for you ✦</div>
+    <h1 data-speed="0.08">Happy Girlfriend Day in Advance</h1>
     <div class="name" data-speed="0.1">Sneha ❤</div>
     <div class="typing">For Sneha — my favourite person, today and always</div>
     <div class="sub">From the luckiest man alive — yours, always &amp; only, Soumyajit</div>
